@@ -1,0 +1,40 @@
+C:\Users\Saddique Usama\Downloads\ayesha\AOA Interface\AOA Interface\bin\Debug\AOA Interface.exe.config
+C:\Users\Saddique Usama\Downloads\ayesha\AOA Interface\AOA Interface\bin\Debug\AOA Interface.exe
+C:\Users\Saddique Usama\Downloads\ayesha\AOA Interface\AOA Interface\bin\Debug\AOA Interface.pdb
+C:\Users\Saddique Usama\Downloads\ayesha\AOA Interface\AOA Interface\obj\Debug\AOA Interface.csprojAssemblyReference.cache
+C:\Users\Saddique Usama\Downloads\ayesha\AOA Interface\AOA Interface\obj\Debug\AOA_Interface.Form1.resources
+C:\Users\Saddique Usama\Downloads\ayesha\AOA Interface\AOA Interface\obj\Debug\AOA_Interface.Form2.resources
+C:\Users\Saddique Usama\Downloads\ayesha\AOA Interface\AOA Interface\obj\Debug\AOA_Interface.Properties.Resources.resources
+C:\Users\Saddique Usama\Downloads\ayesha\AOA Interface\AOA Interface\obj\Debug\AOA Interface.csproj.GenerateResource.cache
+C:\Users\Saddique Usama\Downloads\ayesha\AOA Interface\AOA Interface\obj\Debug\AOA Interface.csproj.CoreCompileInputs.cache
+C:\Users\Saddique Usama\Downloads\ayesha\AOA Interface\AOA Interface\obj\Debug\AOA Interface.exe
+C:\Users\Saddique Usama\Downloads\ayesha\AOA Interface\AOA Interface\obj\Debug\AOA Interface.pdb
+C:\4h semester\semester 4\analysis to algorithm\Online Class AOA\project\AOA Interface\AOA Interface\bin\Debug\AOA Interface.exe.config
+C:\4h semester\semester 4\analysis to algorithm\Online Class AOA\project\AOA Interface\AOA Interface\bin\Debug\AOA Interface.exe
+C:\4h semester\semester 4\analysis to algorithm\Online Class AOA\project\AOA Interface\AOA Interface\bin\Debug\AOA Interface.pdb
+C:\4h semester\semester 4\analysis to algorithm\Online Class AOA\project\AOA Interface\AOA Interface\obj\Debug\AOA Interface.csprojAssemblyReference.cache
+C:\4h semester\semester 4\analysis to algorithm\Online Class AOA\project\AOA Interface\AOA Interface\obj\Debug\AOA_Interface.Form1.resources
+C:\4h semester\semester 4\analysis to algorithm\Online Class AOA\project\AOA Interface\AOA Interface\obj\Debug\AOA_Interface.Form2.resources
+C:\4h semester\semester 4\analysis to algorithm\Online Class AOA\project\AOA Interface\AOA Interface\obj\Debug\AOA_Interface.Properties.Resources.resources
+C:\4h semester\semester 4\analysis to algorithm\Online Class AOA\project\AOA Interface\AOA Interface\obj\Debug\AOA Interface.csproj.GenerateResource.cache
+C:\4h semester\semester 4\analysis to algorithm\Online Class AOA\project\AOA Interface\AOA Interface\obj\Debug\AOA Interface.csproj.CoreCompileInputs.cache
+C:\4h semester\semester 4\analysis to algorithm\Online Class AOA\project\AOA Interface\AOA Interface\obj\Debug\AOA Interface.exe
+C:\4h semester\semester 4\analysis to algorithm\Online Class AOA\project\AOA Interface\AOA Interface\obj\Debug\AOA Interface.pdb
+C:\4h semester\semester 4\analysis to algorithm\Online Class AOA\project\AOA Interface\AOA Interface\obj\Debug\AOA_Interface.data_preview.resources
+C:\4h semester\semester 4\analysis to algorithm\Online Class AOA\project\AOA Interface\AOA Interface\obj\Debug\AOA_Interface.edit_form.resources
+C:\Users\Saddique Usama\Downloads\ayesha\CS311S20PID44-master\AOA Interface\obj\Debug\AOA Interface.csprojAssemblyReference.cache
+C:\Users\Saddique Usama\Downloads\ayesha\CS311S20PID44-master\AOA Interface\obj\Debug\AOA Interface.exe
+C:\Users\Saddique Usama\Downloads\ayesha\CS311S20PID44-master\AOA Interface\obj\Debug\AOA Interface.pdb
+C:\Users\Rimsha Fayyaz\Desktop\CS311S20PID44-master\AOA Interface\bin\Debug\AOA Interface.exe.config
+C:\Users\Rimsha Fayyaz\Desktop\CS311S20PID44-master\AOA Interface\bin\Debug\AOA Interface.exe
+C:\Users\Rimsha Fayyaz\Desktop\CS311S20PID44-master\AOA Interface\bin\Debug\AOA Interface.pdb
+C:\Users\Rimsha Fayyaz\Desktop\CS311S20PID44-master\AOA Interface\obj\Debug\AOA Interface.csprojAssemblyReference.cache
+C:\Users\Rimsha Fayyaz\Desktop\CS311S20PID44-master\AOA Interface\obj\Debug\AOA_Interface.data_preview.resources
+C:\Users\Rimsha Fayyaz\Desktop\CS311S20PID44-master\AOA Interface\obj\Debug\AOA_Interface.edit_form.resources
+C:\Users\Rimsha Fayyaz\Desktop\CS311S20PID44-master\AOA Interface\obj\Debug\AOA_Interface.Form1.resources
+C:\Users\Rimsha Fayyaz\Desktop\CS311S20PID44-master\AOA Interface\obj\Debug\AOA_Interface.Form2.resources
+C:\Users\Rimsha Fayyaz\Desktop\CS311S20PID44-master\AOA Interface\obj\Debug\AOA_Interface.Properties.Resources.resources
+C:\Users\Rimsha Fayyaz\Desktop\CS311S20PID44-master\AOA Interface\obj\Debug\AOA Interface.csproj.GenerateResource.cache
+C:\Users\Rimsha Fayyaz\Desktop\CS311S20PID44-master\AOA Interface\obj\Debug\AOA Interface.csproj.CoreCompileInputs.cache
+C:\Users\Rimsha Fayyaz\Desktop\CS311S20PID44-master\AOA Interface\obj\Debug\AOA Interface.exe
+C:\Users\Rimsha Fayyaz\Desktop\CS311S20PID44-master\AOA Interface\obj\Debug\AOA Interface.pdb
